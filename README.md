@@ -34,7 +34,7 @@ I'm a passionate Front-End Developer with experience in building responsive and 
 
 ### 1. Education Platform
 - *Description:* A dynamic web application designed to provide an engaging and interactive learning experience. Users can explore courses, watch educational videos, and manage their learning progress.
-- *Technologies Used:* React, YouTube API, Cloudinary, CSS Flexbox, Grid
+- *Technologies Used:* React, CSS Flexbox, Grid
 - *[Project Link](#)*
 
 ### 2. Blog Application
