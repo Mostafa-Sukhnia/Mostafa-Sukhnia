@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustafa, a Front-End Developer with React and Next by (TypeScript & Javascript)
+# 👋Hi, I'm Mustafa — Front-End Developer with React, Next.js, TypeScript & JavaScript.
 
 ## 🚀 About Me
 I'm a passionate Front-End Developer with experience in building responsive and interactive web applications. Proficient in *HTML, **CSS, **JavaScript, and **React*, I enjoy solving complex problems and optimizing user experiences. I'm eager to work in a collaborative environment where I can enhance my skills, learn from peers, and contribute to impactful projects. My goal is to continue growing as a developer while working on innovative and challenging projects.
